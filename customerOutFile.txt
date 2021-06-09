@@ -1,0 +1,5 @@
+============================= CUSTOMERS =================================
+ID   	Name      	Surname   	Date of birth  	Age  
+=========================================================================
+Number of customers who can rent: 0
+Number of customers who cannot rent: 0
